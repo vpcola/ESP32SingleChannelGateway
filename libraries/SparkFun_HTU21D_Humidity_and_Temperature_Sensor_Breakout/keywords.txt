@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HTU21D	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+readHumidity	KEYWORD2
+readTemperature	KEYWORD2
+setResolution	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
